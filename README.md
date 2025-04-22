@@ -70,23 +70,7 @@ p/s:
    ## Ảnh này để thầy giáo thấy rõ khóa chính, khóa ngoại và kiểu dữ liệu của 2 bảng khách hàng và phòng
    ![Ảnh chụp màn hình 2025-04-21 112131](https://github.com/user-attachments/assets/e42785ca-694a-4ce8-93bf-e55ed6f5b6d3)
    ## Ảnh này để thầy giáo thấy rõ khóa chính, khóa ngoại và kiểu dữ liệu của 2 bảng đặt phòng và hóa đơn
-   ![image](https://github.com/user-attachments/assets/7aebe23a-efef-4901-8abb-877a2db60c40)
-   ## Ảnh này để thầy giáo thấy rõ khóa chính, khóa ngoại và kiểu dữ liệu của 2 bảng đặt phòng và dịch vụ và chi tiết dịch vụ
-   ![image](https://github.com/user-attachments/assets/58edeb26-d9a3-4146-8e34-e0d097e99ff6)
-   ## Thêm cột phi chuẩn vào bảng booking để tính tiền sử dụng dịch vụ
-   ![image](https://github.com/user-attachments/assets/afea873d-8527-41c0-b2d1-c4559abb7de5)
-   ## Tạo trigger:
-    Xác định BookingId bị ảnh hưởng.
-    Tính lại tổng chi phí dịch vụ (TotalServiceAmount) cho booking đó.
-    Ghi lại giá trị mới vào bảng Booking.
-   ![Ảnh chụp màn hình 2025-04-21 113542](https://github.com/user-attachments/assets/88176941-7711-47c6-8482-9ccf611c27e0)
-   ## Nhập dữ liệu cho các bảng
-   ![image](https://github.com/user-attachments/assets/63150d71-d8bb-4e36-a70c-ab0a40edb1fa)
-   ## Lúc này tác dụng của trigger đã được phát huy rồi đó
-
-   ##
-   ![image](https://github.com/user-attachments/assets/afe80194-74ab-46f3-89f1-ce0b9961adf1)
-   ##
+   ![image](https://githuTheo dõi thay đổi tổng tiền dịch vụ của từng Booking và ghi lại lịch sử thay đổi vào bảng log
    ![image](https://github.com/user-attachments/assets/d3a67669-288c-4260-bcfb-8e1af378099e)
 
    ## Giá trị trước và sau khi thay đổi đều được hiển thị trên bảng này
